@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"abf9818f08654bd1","type":"file","file":"Group/Peoples.md","x":124,"y":75,"width":236,"height":805},
+		{"id":"fc12b97b255f704d","x":700,"y":268,"width":200,"height":92,"type":"file","file":"Михалев.md"},
+		{"id":"a57006952c6e583b","x":680,"y":440,"width":241,"height":89,"type":"file","file":"Щербинина.md"},
+		{"id":"981b9ced74d8e9ba","x":1094,"y":280,"width":240,"height":80,"type":"file","file":"Горелкина.md"},
+		{"id":"02f0bfb1ca7241d5","x":1118,"y":720,"width":192,"height":82,"type":"file","file":"Булеков.md"},
+		{"id":"8353ec018738b1cd","x":1532,"y":900,"width":205,"height":80,"type":"file","file":"Калинин.md"},
+		{"id":"dff371a10329ce2d","x":1534,"y":273,"width":203,"height":95,"type":"file","file":"Козырев.md"},
+		{"id":"9e3fac77973f136b","x":1000,"y":1500,"width":220,"height":80,"color":"1","type":"file","file":"Ермакова.md"},
+		{"id":"a462e2baf2aa1c84","x":1131,"y":1083,"width":189,"height":77,"color":"1","type":"file","file":"Лопатин.md"},
+		{"id":"b22b50bc4a0311e1","x":694,"y":-325,"width":186,"height":85,"color":"1","type":"file","file":"Ачикеев.md"},
+		{"id":"317a2ed762dbf1e5","x":900,"y":-160,"width":201,"height":68,"color":"1","type":"file","file":"Яковлев.md"}
+	],
+	"edges":[
+		{"id":"5c9a4323fa33cc17","fromNode":"fc12b97b255f704d","fromSide":"right","toNode":"981b9ced74d8e9ba","toSide":"left","fromEnd":"arrow","color":"1"},
+		{"id":"1772b6c26882871a","fromNode":"02f0bfb1ca7241d5","fromSide":"left","toNode":"a57006952c6e583b","toSide":"bottom"},
+		{"id":"ea1dce76dad691af","fromNode":"02f0bfb1ca7241d5","fromSide":"top","toNode":"981b9ced74d8e9ba","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"f3c42eab57c8260e","fromNode":"a57006952c6e583b","fromSide":"top","toNode":"fc12b97b255f704d","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"f63c2393ec9e77c3","fromNode":"02f0bfb1ca7241d5","fromSide":"bottom","toNode":"8353ec018738b1cd","toSide":"left","fromEnd":"arrow"},
+		{"id":"7bdde1aa81f1cd1f","fromNode":"dff371a10329ce2d","fromSide":"bottom","toNode":"8353ec018738b1cd","toSide":"top","fromEnd":"arrow"},
+		{"id":"a5f6108bcbc1a820","fromNode":"dff371a10329ce2d","fromSide":"left","toNode":"981b9ced74d8e9ba","toSide":"right"},
+		{"id":"e00b4d4650714c48","fromNode":"a57006952c6e583b","fromSide":"right","toNode":"981b9ced74d8e9ba","toSide":"left"},
+		{"id":"2c825c67f540c91f","fromNode":"fc12b97b255f704d","fromSide":"right","toNode":"02f0bfb1ca7241d5","toSide":"top"}
+	]
+}

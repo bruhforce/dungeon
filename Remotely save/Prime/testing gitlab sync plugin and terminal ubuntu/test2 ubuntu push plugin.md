@@ -1,0 +1,2 @@
+commit all
+push

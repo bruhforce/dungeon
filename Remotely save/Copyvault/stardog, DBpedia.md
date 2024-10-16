@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/16369997/provided-uris-a-sparql-query-to-find-labels-and-types
